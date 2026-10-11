@@ -1,0 +1,17 @@
+{
+  "name": "shopease",
+  "version": "1.0.0",
+  "description": "ShopEase E-commerce Application",
+  "scripts": {
+    "dev": "cd server && npm run dev",
+    "start": "cd server && npm start",
+    "seed": "cd server && npm run seed",
+    "install:server": "cd server && npm install"
+  },
+  "keywords": [
+    "ecommerce",
+    "fullstack"
+  ],
+  "author": "",
+  "license": "ISC"
+}
